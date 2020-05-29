@@ -1,0 +1,8 @@
+1. https://www.geeksforgeeks.org/programmers-approach-looking-array-vs-linked-list/
+   The important takeaways from this article can be summed as follows:
+
+A) Array means contiguous memory. It can exist in any memory section be it Data or Stack or Heap.
+B) Linked List means non-contiguous linked memory. It can exist in any memory section be it Heap or Data or Stack.
+C) As a programmer, looking at a data structure from a memory perspective could provide us with better insight in 
+  choosing a particular data structure or even designing a new data structure. For example, we might create an array
+  of linked lists etc.
