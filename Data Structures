@@ -6,3 +6,7 @@ B) Linked List means non-contiguous linked memory. It can exist in any memory se
 C) As a programmer, looking at a data structure from a memory perspective could provide us with better insight in 
   choosing a particular data structure or even designing a new data structure. For example, we might create an array
   of linked lists etc.
+
+
+2. Resource for some good questions:
+   https://introcs.cs.princeton.edu/java/43stack/
