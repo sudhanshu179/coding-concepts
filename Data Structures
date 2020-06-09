@@ -38,3 +38,5 @@ to linear time solution for shortest path in a directed acyclic graph., we use T
 --> Topological Sorting for a graph is not possible if the graph is not a DAG.  (WHY)
 
 --> https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/
+
+--> https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/
