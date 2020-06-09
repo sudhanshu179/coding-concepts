@@ -15,4 +15,26 @@ C) As a programmer, looking at a data structure from a memory perspective could 
 https://media.geeksforgeeks.org/wp-content/uploads/java-collection.jpg
 
 4. Inorder Traversal wihtout rec and stack
-   Threaded Binary tree: https://www.geeksforgeeks.org/threaded-binary-tree/
+   Threaded Binary tree: https://www.geeksforgeeks.org/threaded-binary-tree/   
+5.BST:
+
+--> https://practice.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1
+--> 
+  
+6. GRAPHS: 
+--> Union-Find Algorithm can be used to check whether an undirected graph contains cycle or not. Note that we have
+discussed an algorithm to detect cycle. This is another method based on Union-Find. This method assumes that the
+graph doesn’t contain any self-loops.
+
+--> Detect Cycle using 3 colors.
+
+--> UNION FIND Algo (Optimized) : O(logn)
+
+--> The longest path problem for a general graph is not as easy as the shortest path problem because the longest 
+path problem doesn’t have optimal substructure property. In fact, the Longest Path problem is NP-Hard for a general
+graph. However, the longest path problem has a linear time solution for directed acyclic graphs. The idea is similar
+to linear time solution for shortest path in a directed acyclic graph., we use Topological Sorting.
+
+--> Topological Sorting for a graph is not possible if the graph is not a DAG.  (WHY)
+
+--> https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/
