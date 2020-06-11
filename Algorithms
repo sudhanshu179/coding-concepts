@@ -4,4 +4,12 @@
  --> https://www.geeksforgeeks.org/polynomial-time-approximation-scheme/
  --> MIT lecture : https://www.youtube.com/watch?v=JPyuH4qXLZ0&list=PL8B24C31197EC371C
  
- 2.
+ 2. Searching:
+--> Interpolation search: https://www.geeksforgeeks.org/interpolation-search/
+--> Binary vs Ternary search (WHY NOT TERNARY? # COMPARISONS ?)
+-->Interesting article on BINARY search: https://www.geeksforgeeks.org/the-ubiquitous-binary-search-set-1/
+
+3. Sorting:
+
+
+
