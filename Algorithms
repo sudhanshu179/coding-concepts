@@ -14,4 +14,10 @@
 --> Amazing:https: //www.geeksforgeeks.org/radix-sort/
 --. Binary Insertion Sort: https://www.geeksforgeeks.org/binary-insertion-sort/
 
-
+4. Greedy ALgo:
+--> Job sequencing using disjoint set.
+--> Greedy will not work for all dinominations, so when skeptic choose dynamic programming:
+   https://www.geeksforgeeks.org/greedy-algorithm-to-find-minimum-number-of-coins/
+--> Efficient huffman encoding:
+   https://www.geeksforgeeks.org/efficient-huffman-coding-for-sorted-input-greedy-algo-4/
+--> 
