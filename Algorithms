@@ -32,6 +32,7 @@
 
 7. Divide an Conquer:
 --> Closest [air of points: https://www.geeksforgeeks.org/closest-pair-of-points-using-divide-and-conquer-algorithm/
+--> Egg drop: https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
 
 8. Dynamic Programming:
 --> Coin change in O(n) space: https://www.geeksforgeeks.org/coin-change-dp-7/
