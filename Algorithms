@@ -30,4 +30,10 @@
 --> Warnsdroff algo: https://www.geeksforgeeks.org/warnsdorffs-algorithm-knights-tour-problem/
 --> Major diff Rec vs Backtrack: https://see.stanford.edu/materials/icspacs106b/H19-RecBacktrackExamples.pdf
 
+7. Divide an Conquer:
+--> Closest [air of points: https://www.geeksforgeeks.org/closest-pair-of-points-using-divide-and-conquer-algorithm/
+
+8. Dynamic Programming:
+--> Coin change in O(n) space: https://www.geeksforgeeks.org/coin-change-dp-7/
+
 
