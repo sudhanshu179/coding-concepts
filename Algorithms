@@ -40,5 +40,6 @@ MIT  Lectures: https://www.youtube.com/watch?v=JPyuH4qXLZ0&list=PL8B24C31197EC37
 8. Dynamic Programming:
 --> Coin change in O(n) space: https://www.geeksforgeeks.org/coin-change-dp-7/
 --> Absolute answer: https://www.geeksforgeeks.org/egg-dropping-puzzle-with-2-eggs-and-k-floors/
+--> Variations of LIS: https://www.geeksforgeeks.org/variations-of-lis-dp-21/
 
 
