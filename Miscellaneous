@@ -3,3 +3,5 @@
 2. See trie vs tenery search trees and it's implementation: 
 --> Used in string search wiht "given prefix" like suggestions in google search, finding nearest neightbour.
 --> https://www.geeksforgeeks.org/data-structure-dictionary-spell-checker/
+
+3. Interval tree: https://www.geeksforgeeks.org/interval-tree/
