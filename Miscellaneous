@@ -1,3 +1,5 @@
-Ternery search tree: https://www.geeksforgeeks.org/ternary-search-tree/
+1. Ternery search tree: https://www.geeksforgeeks.org/ternary-search-tree/
 
-https://www.geeksforgeeks.org/data-structure-dictionary-spell-checker/
+2. See trie vs tenery search trees and it's implementation: 
+--> Used in string search wiht "given prefix" like suggestions in google search, finding nearest neightbour.
+--> https://www.geeksforgeeks.org/data-structure-dictionary-spell-checker/
