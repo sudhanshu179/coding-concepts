@@ -3,3 +3,5 @@
 StringBuffer: https://www.geeksforgeeks.org/stringbuffer-class-in-java/
 
 https://www.geeksforgeeks.org/find-given-string-can-represented-substring-iterating-substring-n-times/
+
+Manacher's Algo: Linear time longest palindromic substring.
