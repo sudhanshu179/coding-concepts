@@ -2,7 +2,7 @@
 
 LMN: ALgo--> https://www.geeksforgeeks.org/lmns-algorithms-gq/
 
-Maths Competitive programming: https://www.geeksforgeeks.org/lmns-algorithms-gq/
+Maths Competitive programming: https://www.geeksforgeeks.org/math-in-competitive-programming/?ref=rp
 
 Diff b/w Scanner & BufferredReader :  https://www.geeksforgeeks.org/difference-between-scanner-and-bufferreader-class-in-java/
 
