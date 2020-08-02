@@ -11,3 +11,5 @@ Fast I/O: https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programmi
 Tips for competitive prog: 
  --> https://www.geeksforgeeks.org/java-tricks-competitive-programming-java-8/?ref=rp
  --> https://www.geeksforgeeks.org/logarithm-tricks-for-competitive-programming/?ref=rp
+ 
+Basic Algorithmic techniques: https://www.geeksforgeeks.org/basic-algorithm-techniques-not-taught-in-academics/?ref=leftbar-rightbar
