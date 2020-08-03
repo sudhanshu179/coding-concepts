@@ -6,3 +6,4 @@
 
 BST: Always look to utilize min and max property for a node anywhere
 --> https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/
+--> Using Unique Object: https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/
