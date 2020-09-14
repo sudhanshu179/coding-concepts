@@ -3,6 +3,7 @@
 --> Nodes at a distance : https://practice.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1
 
 --> LCA, Min dist:https://www.geeksforgeeks.org/find-distance-between-two-nodes-of-a-binary-tree/
+--> nextR in constant space: https://www.geeksforgeeks.org/connect-nodes-at-same-level-with-o1-extra-space/
 
 BST: Always look to utilize min and max property for a node anywhere
 --> https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/
